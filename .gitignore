@@ -1,0 +1,5 @@
+out/
+test-data/
+*.img
+*.img.tmp
+*.log
