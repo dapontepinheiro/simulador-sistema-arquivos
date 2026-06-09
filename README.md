@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para a disciplina de Sistemas Operacionais. A idei
 
 O simulador tambem usa journaling, que e uma tecnica importante para manter a integridade dos dados. Com isso, antes de uma operacao alterar o sistema de arquivos virtual, ela fica registrada em um log.
 
-> Link do GitHub: inserir aqui o link do repositorio depois de publicar o projeto.
+> Link do GitHub: dapontepinheiro/simulador-sistema-arquivos
 
 ## Metodologia
 
