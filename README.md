@@ -1,5 +1,3 @@
-Aqui está o seu texto com a acentuação e a pontuação corrigidas:
-
 # Simulador de Sistema de Arquivos com Journaling
 
 Este projeto foi desenvolvido para a disciplina de Sistemas Operacionais. A ideia principal é simular, em Java, algumas operações básicas de um sistema de arquivos, como criar diretórios, copiar arquivos, apagar, renomear e listar conteúdos.
